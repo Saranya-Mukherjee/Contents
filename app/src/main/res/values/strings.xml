@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contents</string>
+    <string name="copy_name">Copy Name</string>
+    <string name="title">Topic</string>
+    <string name="teacher">Teacher</string>
+    <string name="pg_start">Pg Start</string>
+    <string name="pg_end">Pg End</string>
+    <string name="add_content">Add Content</string>
+    <string name="create_copy">Create Copy</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>

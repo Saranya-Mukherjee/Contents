@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="add"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/del"
+        android:icon="@android:drawable/ic_delete"
+        android:title="delete"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/clear"
+        android:title="Clear All" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out" />
+</menu>
